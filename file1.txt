@@ -1,6 +1,7 @@
 THis is my file 1
 this is something in file 1....
 jxlkglfkgnldfk
+<<<<<<< Updated upstream
 fknfnkfnkfgit 
 f;jfljfklnkn
 nknf
@@ -15,3 +16,6 @@ kishankhdkdg
 =======
 kishan branchihfofih
 >>>>>>> main
+=======
+fknfnkfnkf
+>>>>>>> Stashed changes
